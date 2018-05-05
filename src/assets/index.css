@@ -1,0 +1,32 @@
+nav {
+  padding: 10px 0;
+  background: black; }
+  nav a {
+    color: #fff;
+    margin-left: 20px;
+    text-decoration: none; }
+
+.intro-container {
+  background: url("./images/cover.jpg") no-repeat;
+  background-size: cover; }
+  .intro-container header {
+    padding: 20px; }
+
+form.contact {
+  width: 60%;
+  margin: 50px auto 0; }
+  form.contact div {
+    margin: 10px 0 0; }
+  form.contact label {
+    width: 120px;
+    display: inline-block;
+    margin-top: 10px; }
+  form.contact input {
+    width: 100%;
+    padding: 6px 0 6px 10px; }
+
+body {
+  margin: 0;
+  padding: 0; }
+
+/*# sourceMappingURL=index.css.map */
